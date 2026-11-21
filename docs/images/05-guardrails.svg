@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="349" viewBox="0 0 900 349" role="img" aria-label="Claude Code — guardrails enforced by the hook (illustrative mockup)">
+<rect width="900" height="349" rx="12" fill="#18181b"/>
+<rect width="900" height="34" rx="12" fill="#27272a"/><rect y="22" width="900" height="12" fill="#27272a"/>
+<circle cx="22" cy="17" r="6" fill="#f87171"/><circle cx="42" cy="17" r="6" fill="#facc15"/><circle cx="62" cy="17" r="6" fill="#4ade80"/>
+<text x="450" y="22" text-anchor="middle" fill="#a1a1aa" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12.5">Claude Code — guardrails enforced by the hook</text>
+<text x="886" y="22" text-anchor="end" fill="#52525b" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11">illustrative mockup</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13">
+<rect x="12" y="79" width="876" height="44" rx="8" fill="none" stroke="#f87171" stroke-opacity="0.55" stroke-width="1.5"/><rect x="12" y="184" width="876" height="128" rx="8" fill="none" stroke="#fdba74" stroke-opacity="0.55" stroke-width="1.5"/>
+<text x="22" y="52" xml:space="preserve"><tspan fill="#c4b5fd" font-weight="700">&gt; </tspan><tspan fill="#fafafa">also check the docs site for broken links</tspan></text>
+<text x="22" y="73" xml:space="preserve"><tspan fill="#f87171">● </tspan><tspan fill="#fafafa" font-weight="700">Grav_Docs - run_reports</tspan><tspan fill="#71717a"> (MCP)</tspan></text>
+<text x="22" y="94" xml:space="preserve"><tspan fill="#71717a">  ⎿ </tspan><tspan fill="#f87171">PreToolUse:mcp__claude_ai_Grav_Docs__run_reports hook denied this tool:</tspan></text>
+<text x="22" y="115" xml:space="preserve"><tspan fill="#d4d4d8">     This session is permanently locked to Grav CMS instance "Company Blog" …</tspan></text>
+<text x="22" y="136" xml:space="preserve"><tspan fill="#c4b5fd">● </tspan><tspan fill="#d4d4d8">This session is locked to Company Blog. Start a new session (/clear) for Documentation.</tspan></text>
+
+<text x="22" y="178" xml:space="preserve"><tspan fill="#c4b5fd" font-weight="700">&gt; </tspan><tspan fill="#fafafa">delete the draft FAQ page</tspan></text>
+<text x="22" y="199" xml:space="preserve"><tspan fill="#fafafa" font-weight="700">  Tool use: </tspan><tspan fill="#d4d4d8">grav-blog - delete_page(route: "/blog/draft-faq")</tspan></text>
+<text x="22" y="220" xml:space="preserve"><tspan fill="#fdba74">  [Grav CMS: Company Blog] "delete_page" changes or deletes data on the Grav CMS site.</tspan></text>
+<text x="22" y="241" xml:space="preserve"><tspan fill="#fdba74">  Please confirm.</tspan></text>
+<text x="22" y="262" xml:space="preserve"><tspan fill="#fafafa">  Do you want to proceed?</tspan></text>
+<text x="22" y="283" xml:space="preserve"><tspan fill="#67e8f9">  ❯ 1. Yes</tspan></text>
+<text x="22" y="304" xml:space="preserve"><tspan fill="#d4d4d8">    2. No, and tell Claude what to do differently</tspan></text>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="391" viewBox="0 0 900 391" role="img" aria-label="Claude Code — first use in a session (illustrative mockup)">
+<rect width="900" height="391" rx="12" fill="#18181b"/>
+<rect width="900" height="34" rx="12" fill="#27272a"/><rect y="22" width="900" height="12" fill="#27272a"/>
+<circle cx="22" cy="17" r="6" fill="#f87171"/><circle cx="42" cy="17" r="6" fill="#facc15"/><circle cx="62" cy="17" r="6" fill="#4ade80"/>
+<text x="450" y="22" text-anchor="middle" fill="#a1a1aa" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12.5">Claude Code — first use in a session</text>
+<text x="886" y="22" text-anchor="end" fill="#52525b" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11">illustrative mockup</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13">
+<rect x="12" y="142" width="876" height="107" rx="8" fill="none" stroke="#c4b5fd" stroke-opacity="0.55" stroke-width="1.5"/>
+<text x="22" y="52" xml:space="preserve"><tspan fill="#c4b5fd" font-weight="700">&gt; </tspan><tspan fill="#fafafa">/grav-cms:grav-cms list all unpublished blog posts</tspan></text>
+
+<text x="22" y="94" xml:space="preserve"><tspan fill="#4ade80">● </tspan><tspan fill="#fafafa" font-weight="700">Bash</tspan><tspan fill="#71717a">  node …/scripts/grav-lock.mjs status --session 3f9c…</tspan></text>
+<text x="22" y="115" xml:space="preserve"><tspan fill="#71717a">  ⎿ </tspan><tspan fill="#d4d4d8">{ "locked": false, "instanceCount": 2, … }</tspan></text>
+
+<text x="22" y="157" xml:space="preserve"><tspan fill="#fafafa" font-weight="700">  Which Grav CMS instance should this session use?</tspan></text>
+<text x="22" y="178" xml:space="preserve"><tspan fill="#71717a">  (The choice is locked for the whole session — start a new session to switch.)</tspan></text>
+<text x="22" y="199" xml:space="preserve"><tspan fill="#67e8f9">  ❯ 1. Company Blog (Recommended)  </tspan><tspan fill="#71717a">https://blog.example.com/mcp — key: grav-blog</tspan></text>
+<text x="22" y="220" xml:space="preserve"><tspan fill="#d4d4d8">    2. Documentation               </tspan><tspan fill="#71717a">claude_ai_Grav_Docs — key: grav-docs</tspan></text>
+<text x="22" y="241" xml:space="preserve"><tspan fill="#d4d4d8">    3. Other …</tspan></text>
+
+<text x="22" y="283" xml:space="preserve"><tspan fill="#4ade80">● </tspan><tspan fill="#fafafa" font-weight="700">Bash</tspan><tspan fill="#71717a">  node …/scripts/grav-lock.mjs lock --session 3f9c… --instance grav-blog</tspan></text>
+<text x="22" y="304" xml:space="preserve"><tspan fill="#c4b5fd">● </tspan><tspan fill="#d4d4d8">🔒 This session is now locked to </tspan><tspan fill="#facc15" font-weight="700">Company Blog</tspan><tspan fill="#d4d4d8"> (https://blog.example.com/mcp).</tspan></text>
+<text x="22" y="325" xml:space="preserve"><tspan fill="#4ade80">● </tspan><tspan fill="#fafafa" font-weight="700">grav-blog - list_pages</tspan><tspan fill="#71717a"> (MCP)(published: false, route: "/blog")</tspan></text>
+<text x="22" y="346" xml:space="preserve"><tspan fill="#71717a">  ⎿ </tspan><tspan fill="#d4d4d8">3 pages: /blog/roadmap-2027, /blog/launch-recap, /blog/draft-faq</tspan></text>
+</g>
+</svg>

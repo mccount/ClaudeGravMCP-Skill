@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="328" viewBox="0 0 900 328" role="img" aria-label="Claude Code — install the plugin (illustrative mockup)">
+<rect width="900" height="328" rx="12" fill="#18181b"/>
+<rect width="900" height="34" rx="12" fill="#27272a"/><rect y="22" width="900" height="12" fill="#27272a"/>
+<circle cx="22" cy="17" r="6" fill="#f87171"/><circle cx="42" cy="17" r="6" fill="#facc15"/><circle cx="62" cy="17" r="6" fill="#4ade80"/>
+<text x="450" y="22" text-anchor="middle" fill="#a1a1aa" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12.5">Claude Code — install the plugin</text>
+<text x="886" y="22" text-anchor="end" fill="#52525b" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11">illustrative mockup</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13">
+<rect x="12" y="247" width="876" height="44" rx="8" fill="none" stroke="#c4b5fd" stroke-opacity="0.55" stroke-width="1.5"/>
+<text x="22" y="52" xml:space="preserve"><tspan fill="#c4b5fd" font-weight="700">&gt; </tspan><tspan fill="#fafafa">/plugin marketplace add mccount/ClaudeGravMCP-Skill</tspan></text>
+<text x="22" y="73" xml:space="preserve"><tspan fill="#4ade80">  ✔ </tspan><tspan fill="#d4d4d8">Marketplace "grav-cms-marketplace" added</tspan></text>
+
+<text x="22" y="115" xml:space="preserve"><tspan fill="#c4b5fd" font-weight="700">&gt; </tspan><tspan fill="#fafafa">/plugin install grav-cms@grav-cms-marketplace</tspan></text>
+<text x="22" y="136" xml:space="preserve"><tspan fill="#4ade80">  ✔ </tspan><tspan fill="#d4d4d8">Installed grav-cms 0.1.0 (2 skills, 2 hooks)</tspan></text>
+
+<text x="22" y="178" xml:space="preserve"><tspan fill="#c4b5fd" font-weight="700">&gt; </tspan><tspan fill="#fafafa">/reload-plugins</tspan></text>
+<text x="22" y="199" xml:space="preserve"><tspan fill="#4ade80">  ✔ </tspan><tspan fill="#d4d4d8">Plugins reloaded</tspan></text>
+
+<text x="22" y="241" xml:space="preserve"><tspan fill="#c4b5fd" font-weight="700">&gt; </tspan><tspan fill="#fafafa">/grav</tspan></text>
+<text x="22" y="262" xml:space="preserve"><tspan fill="#67e8f9">  /grav-cms:grav-cms        </tspan><tspan fill="#71717a">Connect to and manage a Grav CMS 2.0+ site …</tspan></text>
+<text x="22" y="283" xml:space="preserve"><tspan fill="#67e8f9">  /grav-cms:grav-cms-setup  </tspan><tspan fill="#71717a">Register, list, remove or troubleshoot instances …</tspan></text>
+</g>
+</svg>
