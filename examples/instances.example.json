@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "confirmDestructive": true
+  },
+  "instances": {
+    "grav-blog": {
+      "label": "Company Blog",
+      "description": "Production marketing blog",
+      "url": "https://blog.example.com/mcp",
+      "serverName": "grav-blog"
+    },
+    "grav-docs": {
+      "label": "Documentation",
+      "description": "Public product docs (claude.ai connector)",
+      "url": "https://docs.example.org/mcp",
+      "serverName": "claude_ai_Grav_Docs"
+    }
+  }
+}

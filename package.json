@@ -1,0 +1,17 @@
+{
+  "name": "claude-grav-cms",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Claude Code plugin and claude.ai skill for managing Grav CMS 2.0+ sites via OAuth2 MCP.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test tests/grav-cms.test.mjs",
+    "sync": "node tools/build-claude-ai-skill.mjs --sync-only",
+    "build:skill": "node tools/build-claude-ai-skill.mjs",
+    "validate": "node tools/validate.mjs"
+  }
+}

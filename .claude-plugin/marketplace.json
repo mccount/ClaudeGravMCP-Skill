@@ -1,0 +1,14 @@
+{
+  "name": "grav-cms-marketplace",
+  "description": "Claude Code plugins for managing Grav CMS sites via MCP.",
+  "owner": {
+    "name": "mccount"
+  },
+  "plugins": [
+    {
+      "name": "grav-cms",
+      "source": "./plugins/grav-cms",
+      "description": "Manage Grav CMS 2.0+ sites over OAuth2 MCP with a per-session instance lock."
+    }
+  ]
+}

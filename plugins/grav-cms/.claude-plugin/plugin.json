@@ -1,0 +1,12 @@
+{
+  "name": "grav-cms",
+  "displayName": "Grav CMS",
+  "version": "0.1.0",
+  "description": "Manage one or more Grav CMS 2.0+ sites through their OAuth2 Streamable HTTP MCP endpoints (/mcp), with a mandatory, immutable per-session instance lock enforced by a PreToolUse hook.",
+  "author": {
+    "name": "mccount"
+  },
+  "homepage": "https://getgrav.org/blog/grav-2-mcp-server",
+  "license": "MIT",
+  "keywords": ["grav", "cms", "mcp", "oauth2", "content-management"]
+}
