@@ -1,4 +1,4 @@
-<p align="center"><img src="plugins/grav-cms/assets/logo.svg" width="96" alt="Grav CMS logo"></p>
+<p align="center"><img src="plugins/grav-cms/assets/logo.png" width="120" alt="Grav CMS logo"></p>
 
 # Grav CMS for Claude
 
